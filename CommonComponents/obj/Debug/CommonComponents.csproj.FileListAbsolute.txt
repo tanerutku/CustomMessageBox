@@ -1,0 +1,28 @@
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\bin\Debug\CommonComponents.dll
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\bin\Debug\CommonComponents.pdb
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\obj\Debug\CommonComponents.csprojResolveAssemblyReference.cache
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\obj\Debug\CommonComponents.dll
+C:\Users\Utku\Desktop\CustomDialogService\CommonComponents\obj\Debug\CommonComponents.pdb
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\obj\Debug\CommonComponents.csprojResolveAssemblyReference.cache
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\obj\Debug\CommonComponents.dll
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\obj\Debug\CommonComponents.pdb
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\bin\Debug\CommonComponents.dll
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\bin\Debug\CommonComponents.pdb
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Utku\Desktop\New folder\CustomDialogService\CommonComponents\bin\Debug\Microsoft.Practices.ServiceLocation.xml
